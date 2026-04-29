@@ -1,0 +1,7 @@
+data:
+  raw_path: data/raw/
+  processed_path: data/processed/
+
+model:
+  type: random_forest
+  target: flood_event
